@@ -48,3 +48,19 @@
 - tidy data 만들기 
 - 문자열 분리 및 데이터 타입 변경
 - 상품군별 판매량 데이터 시각화
+- pivot table로 집계하고 headmap으로 표현
+
+![image](https://user-images.githubusercontent.com/109848417/236670782-c92288ed-d281-4cf4-9029-66db2f3755bb.png)
+
+
+![image](https://user-images.githubusercontent.com/109848417/236670795-236d4dad-d819-4dfc-b3d4-6a8c7b3d1902.png)
+
+### 분석
+
+1) 전체 상품군별로 온라인쇼핑 해외직접판매액은 증가했을까?
+
+![image](https://user-images.githubusercontent.com/109848417/236671817-8b11837e-6440-4096-ac6d-56d50fcfed4f.png)
+
+
+
+
