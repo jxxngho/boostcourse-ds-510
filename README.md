@@ -34,4 +34,17 @@
 
 ## 2. [건강검진 데이터로 가설검정하기](https://github.com/jxxngho/BoostCourse_1/tree/master/%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%20%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95%ED%95%98%EA%B8%B0)
 
+- groupby 혹은 pivot_table로 연산해서 100만개 넘는 데이터 시각화
+- 범주형 데이터 시각화
+- 데이터의 빈도수 시각화하기
+
+
+
+
+
+
 ## 3. [K-beauty 온라인 판매분석](https://github.com/jxxngho/BoostCourse_1/tree/master/K-beauty%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%8C%90%EB%A7%A4%EB%B6%84%EC%84%9D)
+
+- tidy data 만들기 
+- 문자열 분리 및 데이터 타입 변경
+- 상품군별 판매량 데이터 시각화
